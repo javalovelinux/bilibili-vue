@@ -10,23 +10,23 @@
           <ul>
             <li class="home">
               <a class="i-link" href="//www.bilibili.com/">
-                <span>主站</span>
+                <span>福音站</span>
               </a>
             </li>
             <li class="hbili">
-              <a class="i-link" href="//h.bilibili.com/" title="画友">画友</a>
+              <a class="i-link" href="//h.bilibili.com/" title="画友">福音动画</a>
             </li>
             <li class="b-gc" hasframe="true">
-              <a class="i-link" href="//game.bilibili.com/" title="游戏中心">游戏中心</a>
+              <a class="i-link" href="//game.bilibili.com/" title="游戏中心">福音艺术</a>
             </li>
             <li class="live" hasframe="true">
-              <a class="i-link" target="_blank" href="//live.bilibili.com/" title="直播">直播</a>
+              <a class="i-link" target="_blank" href="//live.bilibili.com/" title="直播">福音游戏</a>
             </li>
             <li class="b-zb">
               <a class="i-link" target="_blank" href="//zb.bilibili.com/" title="周边">周边</a>
             </li>
             <li class="planet">
-              <a class="i-link" target="_blank" href="//planet2017.bilibili.com/" title="拜年祭2017">拜年祭
+              <a class="i-link" target="_blank" href="//planet2017.bilibili.com/" title="拜年祭2017">礼拜作品
               <em class="new"></em>
               </a>
             </li>

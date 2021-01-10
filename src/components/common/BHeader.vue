@@ -4,7 +4,7 @@
   	<a class="header-link" target="_blank" href="http://www.bilibili.com" data-loc-id="142"></a>
   	<div class="h-center">
   		<a href="/" class="logo" style="background-image: url('//i0.hdslb.com/bfs/archive/bb2aa0d954bf59d4ee555a8a603fe83888463b6b.png');"></a>
-  		<div class="banner-title">哔哩哔哩 (゜-゜)つロ 干杯~</div>
+  		<div class="banner-title">biblebible (゜-゜)つロ 干杯~</div>
       <search class="msearch"></search>
   	</div>
     <BMenu></BMenu>
